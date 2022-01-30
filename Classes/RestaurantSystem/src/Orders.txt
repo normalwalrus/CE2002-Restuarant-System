@@ -1,0 +1,162 @@
+2021-09-20 01:14:27
+Staff: Chiam 1
+Customer: Ian
+Pax: 2
+3
+Item: Coke Zero 3.8
+Item: Mixed Fresh Fruits 4.0
+Package: Baby Lamb Rack Grilled With Pepper and Honey Sauce, Tiger Beer, Mixed Fresh Fruits,  26.0
+29.744
+2021-09-01 01:19:59
+Staff: Chiam 1
+Customer: Ian
+Pax: 2
+3
+Item: Lychee 5.8
+Item: 'Chendol'-Shaved Ice with 'Gula Melaka' 4.5
+Package: Seafood Bacon Roll Tossed with Salad Cream, Donut with Seafood Paste, 'Mee Goreng' - Fried Noodles Malay Style, Tiger Beer, Tiger Beer, Heineken, Heineken, Sweet Yam Paste with Gingko Nuts, Mixed Fresh Fruits, 'Chendol'-Shaved Ice with 'Gula Melaka',  100.0
+97.06
+2021-11-05 14:16:49
+Staff: Chiam 1
+Customer: Poon
+Pax: 2
+3
+Item: Siam Coconut 6.8
+Item: Siam Coconut 6.8
+Package: Baby Lamb Rack Grilled With Pepper and Honey Sauce, Tiger Beer, Mixed Fresh Fruits,  26.0
+34.85
+2021-11-05 14:41:51
+Staff: Chiam 1
+Customer: Pablo
+Pax: 3
+6
+Item: Beef Fillet with Black Pepper Sauce 14.0
+Item: Scallops Wrapped in Yam Ring 20.0
+Item: Barley 3.8
+Item: Sprite 3.8
+Item: Coke Zero 3.8
+Package: Beef Fillet with Black Pepper Sauce, Siam Coconut, Sweet Yam Paste with Gingko Nuts,  25.0
+61.95
+2021-11-05 15:51:30
+Staff: Ian 1
+Customer: John
+Pax: 4
+3
+Item: Live Boston Lobster Braised with Superior Broth 59.0
+Package: Live Red Tilapia Deep Fried with Nonya Sauce, Coke, Sprite, 'Chendol'-Shaved Ice with 'Gula Melaka', Sweet Yam Paste with Gingko Nuts,  50.0
+Package: Seafood Bacon Roll Tossed with Salad Cream, Donut with Seafood Paste, 'Mee Goreng' - Fried Noodles Malay Style, Tiger Beer, Tiger Beer, Heineken, Heineken, Sweet Yam Paste with Gingko Nuts, Mixed Fresh Fruits, 'Chendol'-Shaved Ice with 'Gula Melaka',  100.0
+229.90
+2021-11-05 15:58:14
+Staff: TianRun 3
+Customer: Megan
+Pax: 4
+1
+Item: Orange juice 5.8
+6.38
+2021-11-05 16:00:39
+Staff: TianRun 3
+Customer: Mark
+Pax: 4
+1
+Package: Baby Lamb Rack Grilled With Pepper and Honey Sauce, Tiger Beer, Mixed Fresh Fruits,  26.0
+28.60
+2021-11-05 16:03:46
+Staff: TianRun 3
+Customer: Penelope
+Pax: 4
+2
+Item: Orange juice 5.8
+Package: Baby Lamb Rack Grilled With Pepper and Honey Sauce, Tiger Beer, Mixed Fresh Fruits,  26.0
+27.98
+2021-11-05 20:49:20
+Staff: TianRun 3
+Customer: Walter
+Pax: 4
+2
+Item: Calamasi juice 5.8
+Package: Seafood Bacon Roll Tossed with Salad Cream, Donut with Seafood Paste, 'Mee Goreng' - Fried Noodles Malay Style, Tiger Beer, Tiger Beer, Heineken, Heineken, Sweet Yam Paste with Gingko Nuts, Mixed Fresh Fruits, 'Chendol'-Shaved Ice with 'Gula Melaka',  100.0
+93.10
+2021-11-06 01:21:45
+Staff: Chiam 1
+Customer: Jill
+Pax: 1
+0
+.00
+2021-11-06 01:37:27
+Staff: Chiam 1
+Customer: Brenda
+Pax: 3
+6
+Item: Siam Coconut 6.8
+Item: Siam Coconut 6.8
+Item: Ice Lemon Tea 3.8
+Item: Siam Coconut 6.8
+Package: Beef Fillet with Black Pepper Sauce, Siam Coconut, Sweet Yam Paste with Gingko Nuts,  25.0
+Package: Seafood Bacon Roll Tossed with Salad Cream, Donut with Seafood Paste, 'Mee Goreng' - Fried Noodles Malay Style, Tiger Beer, Tiger Beer, Heineken, Heineken, Sweet Yam Paste with Gingko Nuts, Mixed Fresh Fruits, 'Chendol'-Shaved Ice with 'Gula Melaka',  100.0
+131.30
+2021-11-06 22:29:07
+Staff: John 1234
+Customer: Tim
+Pax: 2
+3
+Item: Mixed Fresh Fruits 4.0
+Item: 'Mee Goreng' - Fried Noodles Malay Style 20.0
+Package: Beef Fillet with Black Pepper Sauce, Calamasi juice, Mixed Fresh Fruits,  20.0
+38.72
+2021-11-13 19:04:10
+Staff: john 1234
+Customer: Tom
+Pax: 2
+2
+Item: Ice Lemon Tea 3.8
+Package: Beef Fillet with Black Pepper Sauce, Calamasi juice, Mixed Fresh Fruits,  20.0
+22.41
+2021-11-13 18:08:06
+Staff: a 123
+Customer: ian
+Pax: 1
+0
+.00
+2021-11-13 19:13:25
+Staff: a 1
+Customer: ian3
+Pax: 4
+1
+Package: Baby Lamb Rack Grilled With Pepper and Honey Sauce, Tiger Beer, Mixed Fresh Fruits,  26.0
+24.48
+2021-11-13 19:17:03
+Staff: a 123
+Customer: ian
+Pax: 4
+1
+Package: Baby Lamb Rack Grilled With Pepper and Honey Sauce, Tiger Beer, Mixed Fresh Fruits,  26.0
+24.48
+2021-11-13 19:29:38
+Staff: a 1
+Customer: tom
+Pax: 4
+1
+Package: Baby Lamb Rack Grilled With Pepper and Honey Sauce, Tiger Beer, Mixed Fresh Fruits,  26.0
+24.48
+2021-11-13 19:44:43
+Staff: a 3
+Customer: ian
+Pax: 4
+1
+Item: Orange juice 5.8
+5.46
+2021-11-13 20:48:55
+Staff: a 1
+Customer: Tim
+Pax: 2
+1
+Package: Beef Fillet with Black Pepper Sauce, Calamasi juice, Mixed Fresh Fruits,  20.0
+18.83
+2021-11-13 21:09:48
+Staff: John 1234
+Customer: Tom
+Pax: 2
+2
+Item: Ice Lemon Tea 3.8
+Package: Beef Fillet with Black Pepper Sauce, Calamasi juice, Mixed Fresh Fruits,  20.0
+22.41
